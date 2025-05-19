@@ -24,7 +24,7 @@ figure{
 }
 
 .quotes-container{
-    background-color: #bbbbbb;
+    background-color: #bbbbbb75;
     border-radius: 10px;
     width: auto;
     height: auto;
@@ -34,7 +34,7 @@ figure{
 }
 
 #container{
-    background-color: #ffffff;
+    background-color: #ffffff94;
     justify-content: center;
     height: 70%;
     width: 50%;
